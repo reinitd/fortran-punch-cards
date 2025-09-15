@@ -22,7 +22,7 @@ C --- Fragment #5
       WRITE(6,102)A
 
 C --- Fragment #6
-      IF (A .EQ.'*CLASS') GO TO 43
+      IF (A .EQ. '*CLASS') GO TO 43
 
 C --- Fragment #7
 C --- Sequence Number 14
